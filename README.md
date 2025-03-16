@@ -3,8 +3,7 @@
 ## Laboratory Report
 **Academic Year:** 2024/25  
 **Subject:** Microprocessor Systems  
-**Exercise Topic:** Microprocessor-Based Control and Measurement System - PID Controller  
-**Lab Session:** Thursday, 18:30 – 20:00  
+**Exercise Topic:** Microprocessor-Based Control and Measurement System - PID Controller   
 **Faculty, Field, Semester, Group:** WARiE, AiR, 5, A1-L2  
 **Authors:** Łukasz Burdziłowski, Wojciech Ciesiółka  
 **Exercise Date:** 23.01.2025  
