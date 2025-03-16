@@ -42,5 +42,5 @@ Timers **TIM2** and **TIM3** were initialized for temperature reading and PWM ge
 A working PID temperature regulator was successfully implemented. While some overshoot was observed, the primary objective was achieved.
 
 ## Repository
-[GitHub Repo with Demo Video](https://github.com/WojtekCie/PID_Temperature_Regulator)
+[GitHub Repo](https://github.com/WojtekCie/PID_Temperature_Regulator)
 
